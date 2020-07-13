@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ==================================== -->
+    <!--    STORE DATA APPLICATION   strings  -->
+    <!-- ==================================== -->
+    <!-- String For Options Menu -->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_sort">Sort By</string>
+    <string name="action_home">Set as Favorite</string>
+    <string name="action_view">View mode</string>
+    <string name="action_close">Close the current tab</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_tag">add Tag</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_set_permission">Permission Setting</string>
+    <string name="hint">Editor #%d</string>
+
+    <!-- String For Navigation Menu -->
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_new">New</string>
+    <string name="nav_info">Info</string>
+    <string name="nav_exit">Exit</string>
+    
+    <!-- String For Content -->
+    <string name="content">Content #%d</string>
+    
+</resources>
